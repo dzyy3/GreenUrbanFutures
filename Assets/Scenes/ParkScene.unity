@@ -597,6 +597,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: ec9dc01b0ebc04b40b4366783b8b785b, type: 2}
+    - target: {fileID: 903781129018998227, guid: 367d040d802dce24d997c4a7c08d39a6, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8a41c4521dbc8a846acba34fd7ffb38c, type: 2}
     - target: {fileID: 919132149155446097, guid: 367d040d802dce24d997c4a7c08d39a6, type: 3}
       propertyPath: m_Name
       value: Stall-V1
@@ -605,6 +609,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 70b594aad2536154da395c852266f65d, type: 2}
+    - target: {fileID: 5886262302170632804, guid: 367d040d802dce24d997c4a7c08d39a6, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ec9dc01b0ebc04b40b4366783b8b785b, type: 2}
     - target: {fileID: 5886262302170632804, guid: 367d040d802dce24d997c4a7c08d39a6, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
